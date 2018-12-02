@@ -5,8 +5,8 @@
 Time | Session
 ---- | -------
 8:30 AM - 8:45 AM   | _Introductions & Kickoff_ [Brandon - Cerner]
-8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2]
-9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2]
+8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1AIGELbh2yDa_HdfFhcKOwqLL7Ly5USWEJG4PGH3sjjk/edit#slide=id.p12)
+9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1AIGELbh2yDa_HdfFhcKOwqLL7Ly5USWEJG4PGH3sjjk/edit#slide=id.p12)
 9:15 AM - 9:30 AM   | _Session 2: [Creating Services on PCF](https://github.com/cts-workshop-12-2018/creating-services)_ [Febin - Cerner]
 9:30 AM - 9:45 AM   | _Session 3: [Deploy a web app to PCF](https://github.com/cts-workshop-12-2018/angular7-m0)_ [DaShaun - Pivotal]
 9:45 AM - 10:00 AM  | _Break - Order Lunch_
