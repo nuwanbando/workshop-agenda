@@ -9,7 +9,7 @@ Time | Session
 9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
 9:15 AM - 9:30 AM   | _Session 2: [Pivotal Platform & Cloud Native](link here)_ [DaShaun - Pivotal]
 9:30 AM - 9:45 AM   | _Session 3: [App Manager Overview  & Creating Services on PAS](https://github.com/cts-workshop-05-2019/creating-services)_ [Febin - Cerner]
-9:45 AM - 10:00 AM   | _Session 4: [Deploy a web app to PCF](https://github.com/cts-workshop-05-2019/angular7-m0)_ [DaShaun - Pivotal] <br><br>[Initial Highlevel overview](https://github.com/cts-workshop-02-2019/api-design/blob/master/README.md#initial-state)
+9:45 AM - 10:00 AM   | _Session 4: [Deploy a web app to PCF](https://github.com/cts-workshop-05-2019/angular7-m0)_ [DaShaun - Pivotal] <br><br>[Initial Highlevel overview](https://github.com/cts-workshop-05-2019/api-design/blob/master/README.md#initial-state)
 10:00 AM - 10:15 AM | _Break_
 10:15 AM - 10:45 AM | _Session 5: Creating a new [Java](https://github.com/cts-workshop-12-2018/spring-employee-service-m1) or [DotNet](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m1) App - Starting from zero_ [DaShaun - Pivotal]
 10:45 AM - 12:15 PM | _Session 6: CRUD with [Java w/ Spring Data JPA](https://github.com/cts-workshop-12-2018/spring-employee-service-m2) or [DotNet w/ Entity Framework](https://github.com/cts-workshop-12-2018/dotnet-employee-service-m2)_ [DaShaun/ Sean - Pivotal]
@@ -18,7 +18,7 @@ Time | Session
 01:30 PM - 02:30 PM | _Session 8: Publishing and Consuming_ [Nuwan - WSO2]
 02:30 PM - 02:45 PM | _Break_
 02:30 PM - 03:00 PM | _Tech Talk: API Security & Identity Propagation_ [Aditya - Cerner]
-03:00 PM - 03:30 PM | _Session 9: Adding Oauth2_ <br><br>[Final Highlevel overview](https://github.com/cts-workshop-02-2019/api-design/blob/master/README.md#final-state)
+03:00 PM - 03:30 PM | _Session 9: Adding Oauth2_ <br><br>[Final Highlevel overview](https://github.com/cts-workshop-05-2019/api-design/blob/master/README.md#final-state)
 03:45 PM - 04:00 PM | _Break_
 04:00 PM - 04:30 PM | _Wrap-up, Q&A, Course evaluation_
 
