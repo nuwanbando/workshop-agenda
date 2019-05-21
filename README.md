@@ -5,8 +5,8 @@
 Time | Session
 ---- | -------
 8:30 AM - 8:45 AM   | _Introductions & Kickoff_ [Brandon - Cerner]
-8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)
-9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1R_HXtXGPwvIMQc-3kFJmmf_tsZMr1Li4LWVDVdkv4wQ/edit?usp=sharing)<br> [API Design](https://github.com/cts-workshop-05-2019/api-design)
+8:45 AM - 9:00 AM   | _Session 0: API Lifecycle Management_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1AIGELbh2yDa_HdfFhcKOwqLL7Ly5USWEJG4PGH3sjjk/edit#slide=id.p1)
+9:00 AM - 9:15 AM   | _Session 1: Prototype the API_ [Nuwan - WSO2](https://docs.google.com/presentation/d/1AIGELbh2yDa_HdfFhcKOwqLL7Ly5USWEJG4PGH3sjjk/edit#slide=id.p1)<br> [API Design](https://github.com/cts-workshop-05-2019/api-design)
 9:15 AM - 9:30 AM   | _Session 2: [Pivotal Platform & Cloud Native](link here)_ [DaShaun - Pivotal]
 9:30 AM - 9:45 AM   | _Session 3: [App Manager Overview  & Creating Services on PAS](https://github.com/cts-workshop-05-2019/creating-services#creating-services-in-pcf)_ [Febin - Cerner]
 9:45 AM - 10:00 AM   | _Session 4: [Deploy a web app to PCF](https://github.com/cts-workshop-05-2019/angular7-m0#simple-frontend)_ [DaShaun - Pivotal] <br><br>[Initial Highlevel overview](https://github.com/cts-workshop-05-2019/api-design/blob/master/README.md#initial-state)
